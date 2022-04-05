@@ -5,6 +5,4 @@
 1.กรอกจำนวนคนทั้งหมด
 2.กรอกจำนวนกลุ่มที่ต้องการ
 
-## License ([Hushub License](https://github.com/Hushub/License))
-
-Copyright © 2020 Hushub
+## License ([WTFPL License](https://en.wikipedia.org/wiki/WTFPL))
