@@ -5,4 +5,4 @@
 1.กรอกจำนวนคนทั้งหมด
 2.กรอกจำนวนกลุ่มที่ต้องการ
 
-## License ([WTFPL License](https://en.wikipedia.org/wiki/WTFPL))
+### License ([WTFPL License](https://en.wikipedia.org/wiki/WTFPL))
